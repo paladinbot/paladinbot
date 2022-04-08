@@ -9,7 +9,7 @@
 
 <h3 align="left">Se conecte comigo aqui:</h3>
 <p align="left">
-<a href="https://twitter.com/yur1_herbert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yur1_herbert" height="30" width="40" /></a>
+<a href="https://mobile.twitter.com/Yur1Herbert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yur1_herbert" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/yuri-herbert-5a3952109" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yuri-herbert-5a3952109" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/yuritavares" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/yuritavares" height="30" width="40" /></a>
 <a href="https://instagram.com/yuri_herbert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yuri_herbert" height="30" width="40" /></a>
