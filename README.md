@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yuri Herbert</h1>
+<h1 align="center">Olá 👋, Eu sou o Yuri</h1>
 <h3 align="center">Estudante de Ciência da Computação apaixonado por matemática, e tudo o que ela pode gerar.</h3>
 
 - 🌱 Atualmente aprendendo **Machine Learning**
