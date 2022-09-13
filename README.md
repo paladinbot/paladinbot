@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Yuri Herbert aqui</h1>
 <h3 align="center">Estudante de Ciência da Computação apaixonado por matemática, e tudo o que ela pode gerar.</h3>
 
-- 🌱 Atualmente aprendendo **Machine Learning**
+- 🌱 Atualmente aprendendo **Process Mining**
 
 - 📫 Como falar comigo **yuri.herbert.tavares@gmail.com**
 
